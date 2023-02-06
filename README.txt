@@ -1,6 +1,6 @@
 ======================README======================
 NOMBRE: FRANCISCA ANAIS VALENZUELA SALAZAR
-ROL: 201973546-2
+ROL: -----------
 ==================================================
 La tarea fue completamente hecha en linux.
 
